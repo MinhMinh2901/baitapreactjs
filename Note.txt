@@ -1,0 +1,24 @@
+==== Buoi 1 ====
+* SPA
+* Component
+    - statelful component: class
+    - stateless component: function (*)
+    
+
+baitap1/index
+    Header
+    Navbar
+    Content
+    Footer 
+
+baitap2
+    Header
+    Carousel
+    list-item
+        item
+        item
+        item
+        item
+        item
+        item
+    Footer
